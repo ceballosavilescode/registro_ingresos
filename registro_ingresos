@@ -24,7 +24,7 @@ from selenium.webdriver.chrome.service import Service
 class Registro_ingresos(object):
 	def __init__(self):
 		
-		print(" ============ class Registro_ingresos(object): ============ ")
+		print(" ============ class Registro_ingresos(object): REMOTO ============ ")
 		#options = Options()
 		#options.headless = True
 		
